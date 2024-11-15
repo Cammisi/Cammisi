@@ -22,8 +22,7 @@
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
   </a>
-
-
+  </p>
 
 ### 📋 Frontend Development
 
@@ -35,6 +34,12 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
+
+ <a href="https://www.w3schools.com/js/" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
+ </a>
+
+  </p>
 
 
 ### ☁️ Cloud
