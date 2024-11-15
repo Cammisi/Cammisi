@@ -112,6 +112,9 @@
   <a href="https://visualstudio.microsoft.com/" target="_blank"> 
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
   </a>
+   <a href="https://eclipseide.org/" target="_blank"> 
+  <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?logo=eclipse&logoColor=white"/>
+  </a>
 </p>
 
 
