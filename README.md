@@ -115,12 +115,18 @@
   <a href="https://visualstudio.microsoft.com/" target="_blank"> 
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
   </a>
+  
    <a href="https://eclipseide.org/" target="_blank"> 
   <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?logo=eclipse&logoColor=white"/>
   </a>
-     <a href="https://www.jetbrains.com/idea/" target="_blank"> 
+  
+  <a href="https://www.jetbrains.com/idea/" target="_blank"> 
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellijidea&logoColor=white"/>
   </a>
+  
+  <a href="https://sourceforge.net/projects/zinjai/" target="_blank">
+  <img alt="Zinjai IDE" src="https://img.shields.io/badge/Zinjai-0066cc.svg?logo=c%2B%2B&logoColor=white"/>
+</a>
 </p>
 
 
